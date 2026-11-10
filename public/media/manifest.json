@@ -1,0 +1,129 @@
+{
+  "HERO": {
+    "hero-poster": "hero-poster.jpg"
+  },
+  "SIX_MOODS": {
+    "M-01": "mood-wedding.jpg",
+    "M-02": "mood-kanjivaram.jpg",
+    "M-03": "mood-banarasi.jpg",
+    "M-04": "mood-festive.jpg",
+    "M-05": "mood-zari.jpg",
+    "M-06": "mood-bridal.jpg"
+  },
+  "PRODUCTS": {
+    "product-01": "product-01.jpg",
+    "product-01-alt": "product-01-alt.jpg",
+    "product-02": "product-02.jpg",
+    "product-02-alt": "product-02-alt.jpg",
+    "product-03": "product-03.jpg",
+    "product-03-alt": "product-03-alt.jpg",
+    "product-04": "product-04.jpg",
+    "product-04-alt": "product-04-alt.jpg",
+    "product-05": "product-05.jpg",
+    "product-05-alt": "product-05-alt.jpg",
+    "product-06": "product-06.jpg",
+    "product-06-alt": "product-06-alt.jpg",
+    "product-07": "product-07.jpg",
+    "product-07-alt": "product-07-alt.jpg",
+    "product-08": "product-08.jpg",
+    "product-08-alt": "product-08-alt.jpg",
+    "product-09": "product-09.jpg",
+    "product-10": "product-10.jpg",
+    "product-11": "product-11.jpg",
+    "product-12": "product-12.jpg",
+    "product-13": "product-13.jpg",
+    "product-14": "product-14.jpg",
+    "product-15": "product-15.jpg",
+    "product-16": "product-16.jpg"
+  },
+  "BRIDAL": {
+    "bridal-hero": "bridal-hero.jpg",
+    "bridal-01": "bridal-01.jpg",
+    "bridal-02": "bridal-02.jpg",
+    "bridal-03": "bridal-03.jpg",
+    "bridal-04": "bridal-04.jpg",
+    "bridal-05": "bridal-05.jpg"
+  },
+  "TODAYS_EDIT": {
+    "T-01": "trend-01.jpg",
+    "T-02": "trend-02.jpg",
+    "T-03": "trend-03.jpg",
+    "T-04": "trend-04.jpg",
+    "T-05": "trend-05.jpg",
+    "T-06": "trend-06.jpg",
+    "T-07": "trend-07.jpg",
+    "T-08": "trend-08.jpg",
+    "T-09": "trend-09.jpg",
+    "T-10": "trend-10.jpg"
+  },
+  "AUTUMN_WINTER": {
+    "aw-01": "aw-01.jpg",
+    "aw-detail-01": "aw-detail-01.jpg",
+    "aw-02": "aw-02.jpg",
+    "aw-detail-02": "aw-detail-02.jpg",
+    "aw-03": "aw-03.jpg",
+    "aw-detail-03": "aw-detail-03.jpg",
+    "aw-04": "aw-04.jpg",
+    "aw-detail-04": "aw-detail-04.jpg"
+  },
+  "SPOTLIGHT": {
+    "S-01": "spot-ivory-full.jpg",
+    "S-02": "spot-ivory-detail.jpg",
+    "S-03": "spot-rose-full.jpg",
+    "S-04": "spot-rose-detail.jpg",
+    "S-05": "spot-emerald-full.jpg",
+    "S-06": "spot-emerald-detail.jpg",
+    "S-07": "spot-saffron-full.jpg",
+    "S-08": "spot-saffron-detail.jpg"
+  },
+  "OCCASIONS": {
+    "O-01": "occasion-wedding.jpg",
+    "O-02": "occasion-festive.jpg",
+    "O-03": "occasion-office.jpg",
+    "O-04": "occasion-cocktail.jpg",
+    "O-05": "occasion-pooja.jpg"
+  },
+  "HERITAGE": {
+    "H-01": "heritage-01.jpg",
+    "H-02": "heritage-02.jpg",
+    "H-03": "heritage-03.jpg",
+    "H-04": "heritage-04.jpg",
+    "H-05": "heritage-05.jpg",
+    "H-06": "heritage-06.jpg",
+    "H-07": "heritage-07.jpg",
+    "H-08": "heritage-08.jpg",
+    "H-09": "heritage-09.jpg",
+    "H-10": "heritage-10.jpg",
+    "H-11": "heritage-11.jpg",
+    "H-12": "heritage-12.jpg",
+    "H-13": "heritage-13.jpg",
+    "H-14": "heritage-14.jpg",
+    "H-15": "heritage-15.jpg",
+    "H-16": "heritage-16.jpg"
+  },
+  "FIRST_LIGHT": {
+    "F-01": "firstlight-01.jpg",
+    "F-02": "firstlight-02.jpg",
+    "F-03": "firstlight-03.jpg",
+    "F-04": "firstlight-04.jpg"
+  },
+  "LATEST_TRENDS": {
+    "L-01": "trends-card.jpg",
+    "L-02": "trends-small-01.jpg",
+    "L-03": "trends-small-02.jpg"
+  },
+  "TESTIMONIALS": {
+    "P-01": "testimonial-01.jpg",
+    "P-02": "testimonial-02.jpg",
+    "P-03": "testimonial-03.jpg",
+    "P-04": "testimonial-04.jpg"
+  },
+  "INSTAGRAM": {
+    "I-01": "insta-01.jpg",
+    "I-02": "insta-02.jpg",
+    "I-03": "insta-03.jpg",
+    "I-04": "insta-04.jpg",
+    "I-05": "insta-05.jpg",
+    "I-06": "insta-06.jpg"
+  }
+}

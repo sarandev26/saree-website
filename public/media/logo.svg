@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Outer glowing feather contour -->
+  <path d="M50 8C36 28 22 46 24 66C25.5 81.5 37 92 50 94C63 92 74.5 81.5 76 66C78 46 64 28 50 8Z" stroke="#E8A317" stroke-width="2" stroke-linecap="round" />
+  <!-- Feather quill spine -->
+  <path d="M50 94C50 78 49.5 50 50 14" stroke="#F6C65B" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Peacock outer eye -->
+  <ellipse cx="50" cy="46" rx="18" ry="24" fill="#0E6B6B" stroke="#E8A317" stroke-width="1.8"/>
+  <!-- Peacock middle iris -->
+  <ellipse cx="50" cy="48" rx="12" ry="17" fill="#062C30" stroke="#F6C65B" stroke-width="1.5"/>
+  <!-- Peacock inner eye pupil -->
+  <ellipse cx="50" cy="51" rx="6.5" ry="9" fill="#1F8A86"/>
+  <circle cx="50" cy="53" r="3.5" fill="#E8A317"/>
+  <!-- Delicate vanes radiating -->
+  <path d="M48 30C41 28 34 32 30 38" stroke="#E8A317" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.5 2"/>
+  <path d="M52 30C59 28 66 32 70 38" stroke="#E8A317" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.5 2"/>
+  <path d="M47 40C39 39 30 45 26 53" stroke="#E8A317" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M53 40C61 39 70 45 74 53" stroke="#E8A317" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M46 54C37 56 29 64 27 73" stroke="#E8A317" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M54 54C63 56 71 64 73 73" stroke="#E8A317" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M47 68C40 73 34 81 35 88" stroke="#E8A317" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M53 68C60 73 66 81 65 88" stroke="#E8A317" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Subtle crown sparks -->
+  <circle cx="50" cy="8" r="2" fill="#E8A317"/>
+  <circle cx="44" cy="11" r="1.5" fill="#F6C65B"/>
+  <circle cx="56" cy="11" r="1.5" fill="#F6C65B"/>
+</svg>
+
